@@ -1,4 +1,4 @@
-package com.anonymous.FETrend
+package com.fe.trend
 
 import android.app.Application
 import android.content.res.Configuration

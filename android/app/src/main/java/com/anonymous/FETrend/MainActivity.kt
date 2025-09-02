@@ -1,4 +1,4 @@
-package com.anonymous.FETrend
+package com.fe.trend
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build

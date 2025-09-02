@@ -28,7 +28,7 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>frontendtrendapp</string>
-          <string>com.anonymous.FETrend</string>
+          <string>com.fe.trend</string>
         </array>
       </dict>
     </array>

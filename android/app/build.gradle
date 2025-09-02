@@ -87,7 +87,7 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.fe.td'
+    namespace 'com.fe.trend'
     defaultConfig {
         applicationId 'com.fe.trend'
         minSdkVersion rootProject.ext.minSdkVersion

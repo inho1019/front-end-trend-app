@@ -36,6 +36,11 @@
         }
       ]
     ],
+    "splash": {
+      "image": "./assets/images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#121212"
+    },
     "experiments": {
       "typedRoutes": true
     }
